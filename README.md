@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhendongBai
-- 👀 I’m interested in spark, flink, hadoop, presto, iceberg, hudi, etc.
-- 🌱 I’m currently learning iceberg
+- 👀 I’m interested in spark, flink, hadoop, presto, iceberg, hudi, arctic, etc.
+- 🌱 I’m currently learning iceberg and arctic
 - 💞️ I’m looking to collaborate on bigdata on computation and storage.
 - 📫 contact me at johnnyprimary@163.com
 
